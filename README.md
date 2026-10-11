@@ -61,15 +61,19 @@ Latent Vector (z)
 
 ## 📂 Project Structure
 
-GAN-StyleGAN/
-├── STYLEGAN.ipynb
-├── README.md
-└── results/
-    ├── generated_images.png
-    ├── latent_interpolation.png
-    └── style_mixing.png
+```text
+DL StyleGAN/
+│
+├── StyleGAN 1.png       # First project visualization
+├── StyleGAN 2.png       # Second project visualization
+└── STYLEGAN.ipynb       # Main Jupyter Notebook
+```
 
-The results/ directory and image filenames above are suggested. Add them after saving the corresponding outputs from your notebook.
+### 📌 File Description
+
+- **STYLEGAN.ipynb** – Contains the StyleGAN-inspired model implementation, dataset handling, training process, and image generation experiments.
+- **StyleGAN 1.png** – Project visualization or output image.
+- **StyleGAN 2.png** – Additional project visualization or output image.
 
 ## 🧪 Experiments
 
