@@ -59,6 +59,18 @@ Latent Vector (z)
  (Real or Fake)
 ```
 
+## 📂 Project Structure
+
+GAN-StyleGAN/
+├── STYLEGAN.ipynb
+├── README.md
+└── results/
+    ├── generated_images.png
+    ├── latent_interpolation.png
+    └── style_mixing.png
+
+The results/ directory and image filenames above are suggested. Add them after saving the corresponding outputs from your notebook.
+
 ## 🧪 Experiments
 
 ### 1. Image Generation
